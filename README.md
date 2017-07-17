@@ -1,4 +1,4 @@
-# Ruan Felipe Joppert Rodrigues
+# Ruan Felipe Joppert Rodrigues, 25 anos
 Maringá/PR
 
 ---
@@ -41,6 +41,7 @@ Maringá/PR
 * Conhecimento em testes unitários TDD
 * Padrões de Projeto *(Modelo MVC)*
 * Sistema de Controle de versão *(git)*
+* Programação Funcional
 * Conhecimento em SEO
 * Conhecimento em Design
 
@@ -71,9 +72,3 @@ Maringá/PR
 
 * 2011/2012 - **Acesse Descontos**
 > No hype das compras coletivas montei minha empresa em 2011, desenvolvi todo o sistema e coloquei no ar em 2011. Em 2012 sai da sociedade mas o negócio durou até 2013 com o mesmo sistema criado por mim
-
----
-
-## Formação
-
-Cursos, leituras ao longo do dia, cursos e mais cursos
